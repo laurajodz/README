@@ -15,7 +15,7 @@ A personal communication guide to share my working style and preferences
 - I prioritize kindness in all communications.
 
 ## What are some useful things to know in advance about your style?
-- I am not a morning person. I like to spend my mornings very quietly, alone, reading and setting my intentions for the day. 
+- I am not a morning person. I like to spend my early mornings very quietly, alone, reading and setting my intentions for the day. 
 - I do my best coding at night.
 - I value cooperation and understanding over perfectionism. 
 - I strive for team harmony. I see inefficiencies in everything, everywhere I go, but find that nitpicking little inefficiencies to be counterproductive to team morale.
