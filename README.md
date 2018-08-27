@@ -1,10 +1,10 @@
 # README
 A personal communication guide to share my working style and preferences 
 
-What are your primary goals as a human being?
-•	Authenticity: I am sincere in all I do, my goal being to have an authentic life experience. I love that Netlify encourages us to bring our whole selves to work. I am recovering from needing to have a “work persona”. It sucked.
-•	Learning: I question everything and push myself outside of my comfort zone, so I can learn and grow. 
-•	Helping: I love to help others succeed and find fulfillment. I love to make things easier for people
+## What are your primary goals as a human being?
+- Authenticity: I am sincere in all I do, my goal being to have an authentic life experience. I love that Netlify encourages us to bring our whole selves to work. I am recovering from needing to have a “work persona”. It sucked.
+- Learning: I question everything and push myself outside of my comfort zone, so I can learn and grow. 
+- Helping: I love to help others succeed and find fulfillment. I love to make things easier for people
 
 What do you want us to know about your communication style?
 •	I am generally most comfortable and communicative in 1:1s and small group settings. The larger the group the more my natural introversion becomes apparent.
