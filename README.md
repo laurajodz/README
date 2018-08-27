@@ -11,6 +11,7 @@ A personal communication guide to share my working style and preferences
 - Because I am on the quiet side, I worry that people think I am not engaged. But I like to carefully consider my words before speaking, and only comment when I feel it would add to the discussion. Sometimes I have trouble articulating what I want to say in the moment. Sometimes I need to collect my thoughts first then speak.
 - I sometimes follow a thought down a path that may not be the most helpful to the problem at hand. I like to consider all paths forward, but please reign me in if I stray too far off a productive path.
 - I have a hard time delegating work/telling people what to do.
+- I value venting with teammates when I see something "stupid", and then usually get over it in about 2 seconds. And I am a good listener.
 - I prioritize kindness in all communications.
 
 ## What are some useful things to know in advance about your style?
