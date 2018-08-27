@@ -1,4 +1,4 @@
-# README
+# Laura Jodz's README
 A personal communication guide to share my working style and preferences 
 
 ## What are your primary goals as a human being?
