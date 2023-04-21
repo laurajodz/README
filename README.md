@@ -16,7 +16,7 @@ A personal communication guide to share my working style and preferences
 ## What are some useful things to know in advance about your style?
 - I can get quite serious when I am laser-focused on learning a new concept. 
 - I am not a morning person. I like to spend my early mornings very quietly, alone, reading and setting my intentions for the day. 
-- I take a lot of notes and am a guilt-ridden tree killer.
+- I take a lot of notes.
 - I enjoy making things more efficient.
 - I love a checklist.
 
